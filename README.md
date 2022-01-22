@@ -1,14 +1,13 @@
 
-<h2> Hey there! I'm Aditya.</h2>
+<h1> Hey there! I'm Elmaz.</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
+- 🎓 &nbsp; Studying Information Technology at University of Montenegro.
+- 💼 &nbsp; Working as a Full stack developer.
+- 🌱 &nbsp; Learning more about Cloud Architecture, WEB 3.0, Blockchain and Solidity.
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -57,4 +56,4 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [feratovic](https://github.com/feratovic)
