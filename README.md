@@ -33,7 +33,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Vercel" width="26px" src="https://pbs.twimg.com/profile_images/1252525888710873088/CBm5_MB7_400x400.jpg" />
-<img align="left" alt="Heroku" width="26px" src="https://e7.pngegg.com/pngimages/855/935/png-clipart-heroku-logo-heroku-logo-icons-logos-emojis-tech-companies.png" />
+<img align="left" alt="Heroku" width="26px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" />
 <img align="left" alt="Java" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 <img align="left" alt="PHP" width="26px" src="https://www.designbust.com/download/240/png/php_icon512.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
