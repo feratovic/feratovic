@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e471s0vb4dgk1nujq9hvcqnrjyjf3ii5pbkev27efmw&rid=giphy.gif&ct=s" width="230">
 
-### 👨🏻‍💻 &nbsp;About Me 
+## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at University of Montenegro.
@@ -13,7 +13,7 @@
 
 <br />
 
-### 🛠 &nbsp; Tech Stack
+## 🛠 &nbsp; Tech Stack
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -42,7 +42,7 @@
  <br />
  <br />
  
-### ⚙️ &nbsp; GitHub Stats
+## ⚙️ &nbsp; GitHub Stats
 
 ![Github Stats][statsUrl]
 
@@ -51,14 +51,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feratovic&layout=compact)](https://github.com/feratovic/github-readme-stats)
 
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
-[<img align="left" alt="elmazferatovic.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="Elmaz Feratovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Elmaz Feratovic |  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="elmazferatovic.me" width="40" src="https://freepngimg.com/thumb/world_wide_web/24850-9-world-wide-web-clipart.png"/>][website]
+[<img align="left" alt="Elmaz Feratovic | LinkedIn" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="Elmaz Feratovic |  Instagram" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
  
  <br />
-  
+ <br />
+ 
  ---
   
 ⭐️ From [feratovic](https://github.com/feratovic)
