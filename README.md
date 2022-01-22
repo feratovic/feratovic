@@ -2,7 +2,7 @@
 # Hey there! I'm Elmaz. <img align='center' src="https://media1.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=ecf05e474klr5dayn2tpsvgqd1w1dihqpmj5swuhni3has1m&rid=giphy.gif&ct=s" width="80">
 
 
-<img align='right' src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e471s0vb4dgk1nujq9hvcqnrjyjf3ii5pbkev27efmw&rid=giphy.gif&ct=s" width="230">
+<img align='right' src="https://media3.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif?cid=ecf05e47fyers4mojmz5qf0y9a39dfebgl684keeza4mg0hz&rid=giphy.gif&ct=s" width="230">
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
